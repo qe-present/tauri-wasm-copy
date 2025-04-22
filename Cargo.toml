@@ -8,7 +8,8 @@ edition = "2024"
 [features]
 # Api
 all = ["app"]
-app = ["dep:semver"]
+app = []
+core= []
 
 
 
